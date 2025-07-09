@@ -1,0 +1,10 @@
+streamlit==1.46.1
+scikit-learn==1.7.0
+pandas==2.3.1
+PyMuPDF==1.26.3
+PyPDF2==3.0.1
+nltk==3.8.1
+regex==2024.5.15
+gdown==5.2.0
+beautifulsoup4==4.13.4
+sentence-transformers==5.0.0
